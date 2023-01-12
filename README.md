@@ -1,14 +1,14 @@
-#hi
-##h2
-###h3
-####h4
-#####h5
-######h6
+# Hi
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
 Alternativelity ,for h1 and h2, an underline-ish style:
 
-Alt-h1
+Alt-H1
 =======
 
-Alt-g1
+Alt-H2
 -------
